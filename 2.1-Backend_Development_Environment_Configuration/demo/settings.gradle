@@ -5,4 +5,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = 'demo'
+rootProject.name = '2.1-Backend_Development_Environment_Configuration'

@@ -5,4 +5,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = 'demo'
+rootProject.name = '6.3-Backend_Deployment_With_AWS_ElasticBeanstalk'
